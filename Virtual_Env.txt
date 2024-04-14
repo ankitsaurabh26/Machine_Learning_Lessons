@@ -1,0 +1,4 @@
+- pip install virtualenv
+- virtualenv <env_name>
+- .\my_env\Scripts\activate
+- pip freeze > requirements.txt
