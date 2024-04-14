@@ -1,1 +1,0 @@
-alert("The page has been reloded!!")
